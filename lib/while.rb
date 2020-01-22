@@ -3,7 +3,7 @@ def using_while
 	if using_whilelevitation_force >= 6
 	  puts "This number is greater or equal to 6"
 	  using_whilelevitation_force += 1
-	  break
+	  
   
 end
 
